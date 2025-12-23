@@ -35,6 +35,6 @@ Ratnangshu Das
 Indian Institute of Science (IISc), Bengaluru
 Email: ratnangshud@iisc.ac.in
 
-*License*
+# License
 This repository is provided for research and educational use.
 Please contact the authors for other usage
