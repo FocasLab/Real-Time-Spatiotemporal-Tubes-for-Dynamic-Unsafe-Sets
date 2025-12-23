@@ -3,7 +3,7 @@ clc;
 clear; 
 clf;
 
-%% --- Parameters ---
+%% Parameters
 
 % Environment parameters
 S = [0.5, 1.5]; % Initial position
@@ -112,7 +112,7 @@ for iter = 1:length(t)
     end
     
     %% Update Robot Position
-    u = control(sigma,rho,x); % Compute control input as in Equation (18)
+    u = control_2d(sigma,rho,x); % Compute control input as in Equation (18)
     x = x + delt * u;
 
     %% Update Plot

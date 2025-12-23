@@ -3,7 +3,7 @@ clc;
 clear;
 clf;
 
-%% ---------------- Parameters ----------------
+%% Parameters
 
 % Environment parameters
 S = [1, 1, 1]; % Initial position
