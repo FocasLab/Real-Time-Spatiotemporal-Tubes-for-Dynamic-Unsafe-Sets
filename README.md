@@ -22,12 +22,12 @@ No additional toolboxes required
 If you use this code in your research, please cite:
 
 @article{Das2025RAL,
-  author  = {R. Das and S. Upadhyay and P. Jagtap},
-  title   = {Real-Time Spatiotemporal Tubes for Dynamic Unsafe Sets},
-  journal = {IEEE Robotics and Automation Letters},
-  year    = {2025},
-  doi     = {10.1109/LRA.2025.3645667},
-  url     = {https://ieeexplore.ieee.org/document/11302778}
+  author  = {R. Das and S. Upadhyay and P. Jagtap},  
+  title   = {Real-Time Spatiotemporal Tubes for Dynamic Unsafe Sets},  
+  journal = {IEEE Robotics and Automation Letters},  
+  year    = {2025},  
+  doi     = {10.1109/LRA.2025.3645667},  
+  url     = {https://ieeexplore.ieee.org/document/11302778}  
 }
 
 # Contact
